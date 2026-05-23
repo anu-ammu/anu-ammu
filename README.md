@@ -1,12 +1,57 @@
-- 👋 Hi, I’m @anu-ammu
-- 👀 I’m interested in python coding ...
-- 🌱 I’m currently learning python ...
-- 💞️ I’m looking to collaborate on restaurant management system codings ...
-- 📫 How to reach me mail ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Anusuya
 
-<!---
-anu-ammu/anu-ammu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Founder @ Pixaware
+
+I build:
+
+- 🔐 Security Systems
+- 🤖 AI Tools
+- 🌐 WordPress Platforms
+- ⚡ Backend Systems
+- 🛡️ Live Protection Tools
+- 📊 Admin Dashboards
+- ☁️ Cloud Based Applications
+
+---
+
+## 🧠 Current Focus
+
+- SiteOps AI
+- Pixaware Hub
+- WordPress Plugin Development
+- AI Automation
+- Security Infrastructure
+
+---
+
+## ⚙️ Tech Stack
+
+- PHP
+- JavaScript
+- MySQL
+- WordPress
+- Elementor
+- Git & GitHub
+- Linux
+- AI Workflows
+
+---
+
+## 🌍 Website
+
+🌐 https://pixaware.co
+
+---
+
+## 📌 Projects
+
+- Pixaware Hub
+- SiteOps AI
+- Security Plugin
+- AI Based WordPress Tools
+
+---
+
+## 📫 Contact
+
+📧 hello@pixaware.co
