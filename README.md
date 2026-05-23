@@ -54,4 +54,4 @@ I build:
 
 ## 📫 Contact
 
-📧 hello@pixaware.co
+📧 anusuya.s@pixaware.co
